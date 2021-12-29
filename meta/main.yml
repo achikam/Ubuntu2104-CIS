@@ -1,17 +1,17 @@
 ---
 galaxy_info:
   author: "Florian Utz"
-  description: "Ansible role to apply Ubuntu 20.04 CIS Baseline"
+  description: "Ansible role to apply Ubuntu 21.04 CIS Baseline"
   company: "none"
   license: MIT
-  min_ansible_version: 2.6
-  role_name: ubuntu2004_cis
+  min_ansible_version: 2.7
+  role_name: ubuntu2104_cis
   namespace: florianutz
 
   platforms:
     - name: Ubuntu
       versions:
-        - focal
+        - hirsute
 
   galaxy_tags:
     - system
