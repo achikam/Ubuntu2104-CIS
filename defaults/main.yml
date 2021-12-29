@@ -1,5 +1,5 @@
 ---
-# defaults file for Ubuntu2004-CIS
+# defaults file for Ubuntu2104-CIS
 ubuntu2004cis_skip_for_travis: false
 
 ubuntu2004cis_notauto: false
