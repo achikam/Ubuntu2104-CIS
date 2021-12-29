@@ -5,7 +5,7 @@ galaxy_info:
   company: "none"
   license: MIT
   min_ansible_version: 2.7
-  role_name: ubuntu2104_cis
+  role_name: Ubuntu2104-CIS
   namespace: florianutz
 
   platforms:
