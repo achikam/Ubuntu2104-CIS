@@ -37,11 +37,11 @@ With this in the file requirements.yml:
 
 ```
 - name: Harden Server
-  hosts: servers
+  hosts: localhost
+  connection: local
   become: yes
-
   roles:
-    - ubuntu2104_cis
+    - Ubuntu2104-CIS
 ```
 
 To run the tasks in this repository, first create this file one level above the repository
