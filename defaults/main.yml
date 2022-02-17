@@ -72,10 +72,10 @@ ubuntu2104cis_rule_1_7_1_1: true
 ubuntu2104cis_rule_1_7_1_2: true
 ubuntu2104cis_rule_1_7_1_3: true
 ubuntu2104cis_rule_1_7_1_4: true
-ubuntu2104cis_rule_1_8_1_1: true
+ubuntu2104cis_rule_1_8_1_1: false
 ubuntu2104cis_rule_1_8_1_2: true
 ubuntu2104cis_rule_1_8_1_3: true
-ubuntu2104cis_rule_1_8_1_4: true
+ubuntu2104cis_rule_1_8_1_4: false
 ubuntu2104cis_rule_1_8_1_5: true
 ubuntu2104cis_rule_1_8_1_6: true
 ubuntu2104cis_rule_1_9: true
